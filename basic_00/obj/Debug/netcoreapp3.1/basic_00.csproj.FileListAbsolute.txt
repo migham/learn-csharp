@@ -1,0 +1,13 @@
+C:\Users\Jorge\Documents\csharp_basics\basic_00\bin\Debug\netcoreapp3.1\basic_00.exe
+C:\Users\Jorge\Documents\csharp_basics\basic_00\bin\Debug\netcoreapp3.1\basic_00.deps.json
+C:\Users\Jorge\Documents\csharp_basics\basic_00\bin\Debug\netcoreapp3.1\basic_00.runtimeconfig.json
+C:\Users\Jorge\Documents\csharp_basics\basic_00\bin\Debug\netcoreapp3.1\basic_00.runtimeconfig.dev.json
+C:\Users\Jorge\Documents\csharp_basics\basic_00\bin\Debug\netcoreapp3.1\basic_00.dll
+C:\Users\Jorge\Documents\csharp_basics\basic_00\bin\Debug\netcoreapp3.1\basic_00.pdb
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.csprojAssemblyReference.cache
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.AssemblyInfoInputs.cache
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.AssemblyInfo.cs
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.dll
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.pdb
+C:\Users\Jorge\Documents\csharp_basics\basic_00\obj\Debug\netcoreapp3.1\basic_00.genruntimeconfig.cache
